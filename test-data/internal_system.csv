@@ -1,0 +1,8 @@
+transaction_reference,amount,status
+TXN001,1500.50,completed
+TXN002,2750.00,completed
+TXN003,875.25,pending
+TXN004,5000.00,completed
+TXN005,1507.75,failed
+TXN006,3000.00,completed
+TXN007,899.99,pending

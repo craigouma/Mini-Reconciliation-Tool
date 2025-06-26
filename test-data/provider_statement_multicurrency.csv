@@ -1,0 +1,9 @@
+transaction_reference,amount,status,currency
+TXN001,1500.50,completed,KSh
+TXN002,25.00,completed,USD
+TXN003,875.25,completed,KSh
+TXN004,44.50,completed,USD
+TXN009,2000.00,completed,KSh
+TXN010,12.55,pending,USD
+TXN006,2500.00,failed,KSh
+TXN008,800.00,completed,ZAR
